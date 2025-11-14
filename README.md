@@ -32,4 +32,4 @@ See `packaging/github_push_instructions.md` for step-by-step commands including 
 
 ## What's next
 - Use `docs/METHODOLOGY.md` to record your test plan and final results.
-- Use `packaging/make_zip.sh` to create a final submission ZIP for Mindrift.
+- Use `packaging/make_zip.sh` to create a file 
